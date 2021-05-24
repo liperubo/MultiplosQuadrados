@@ -15,13 +15,13 @@ Turma: CP004TIM2*/
 
 typedef struct Vet
 {
-	float x;
+  float x;
   float y;
 } Vet;
 
 typedef struct MMQ
 {
-	float y;
+  float y;
   float u0;
   float u1;
   float u2;
